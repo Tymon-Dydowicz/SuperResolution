@@ -58,8 +58,8 @@
 
 | **Task**                               | **Points** | **Status** | **Type**       |
 |----------------------------------------|------------|------------|----------------|
-| Git                                    | 0pts       | [?]        | Mandatory      |
-| MLflow, Tensorboard, Neptune, W&B      | 1pts       | [?]        | Additional     |
+| Git                                    | 0pts       | [x]        | Mandatory      |
+| MLflow, Tensorboard, Neptune, W&B      | 1pts       | [ ]        | Additional     |
 | Run as Docker                          | 1pts       | [x]        | Additional     |
 | REST API or GUI (e.g., Gradio)         | 1pts       | [x]        | Additional     |
 | DVC                                    | 2pts       | [ ]        | Additional     |
